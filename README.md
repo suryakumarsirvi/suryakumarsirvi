@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I’m Suryakumar Sirvi, a graduate IT student focused on strong fundamentals and clean code.<br><br>- 🔭 Working with JavaScript<br>- 🌱 Learning core JS and DOM  <br>- 👯 Open to collaboration  <br>- 💬 Ask me about JS basics  <br>- ⚡ Fun fact: I prefer depth over speed<br>
+## >I’m Suryakumar Sirvi, a graduate IT student focused on strong fundamentals and clean code.<br><br>- 🔭 Working with JavaScript<br>- 🌱 Learning core JS and DOM  <br>- 👯 Open to collaboration  <br>- 💬 Ask me about JS basics  <br>- ⚡ Fun fact: I prefer depth over speed<br>
 
 
 ## 🌐 Socials:
